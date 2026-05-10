@@ -75,5 +75,3 @@ Wynik predykcji (0 = łagodny, 1 = złośliwy): [0]
 ```
 
 ---
-
-Jestem gotowy na polecenie do **zadania 3**! Prześlij je, a przeanalizuję je i zaplanuję kolejne kroki.
